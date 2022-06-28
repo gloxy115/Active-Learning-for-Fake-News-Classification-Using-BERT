@@ -8,7 +8,7 @@ The Main Experiment codes are<br/>
 The Final Visualization Graphs are <br/>
 -- Results Graph Visualizaions.ipynb<br/>
 <br/>
-The already pre-processed and then randomly selected 12,000 instances of some datasets are in the zipped folder in the mail with the thesis pdf file.<br/>
+The already pre-processed and then randomly selected 15,000 instances of some datasets are in the zipped folder in the mail with the thesis pdf file.<br/>
 <br/>
 The rest of the codes are following<br/>
 -- WordCloud,_etc.ipynb: codes for making wordclouds and some EDA that were not included in the final thesis<br/>
